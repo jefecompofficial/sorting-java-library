@@ -1,0 +1,16 @@
+#Prevent tracking changes in backup files
+*~
+
+#Prevent tracking changes in target directory
+/target/
+
+#Prevent tracking changes in .project file
+.project
+
+#Prevent tracking changes in classpath file
+.classpath
+
+
+#Prevent tracking changes in .settings directory
+.settings/
+
