@@ -9,7 +9,7 @@ import org.jefecomp.sorting.Sorting;
  * @author jefecomp
  * 
  * 
- * Implementation of the MergeSort algorithm for any type of numbers in Java Language, i.e. Integer, Float, Double, Long. 
+ * Implementation of the MergeSort algorithm for any type of number in Java Language, i.e. Integer, Float, Double, Long. 
  * The length of the input array is limited by maximum number of elements allowed by an array in Java. 
  *
  */
